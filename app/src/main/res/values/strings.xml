@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">TransitApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="mapbox_access_token">sk.eyJ1IjoibW94c29tIiwiYSI6ImNscDFmbWpqOTBncGUyam80MXIyNDM5cWcifQ.UsqwAqFA7CUrYMRAfRmRnQ</string>
+    <string-array name="bus_routes_array">
+        <item>1 Spring Garden</item>
+        <item>10 Dalhousie</item>
+        <item>123 Timberlea</item>
+        <item>127 Cowie Hill Express</item>
+        <item>135 Flamingo</item>
+        <item>136 Farnham Gate</item>
+        <item>137 Clayton Park</item>
+        <item>138 Parkland</item>
+        <item>158 Woodlawn Express</item>
+        <item>159 Colby Express</item>
+        <item>161 North Preston Express</item>
+        <item>165 Caldwell Express</item>
+        <item>168A Auburn Express</item>
+        <item>168B Cherry Brook Express</item>
+        <item>182 First Lake Express</item>
+        <item>183 Springfield Express</item>
+        <item>185 Millwood Express</item>
+        <item>186 Beaver Bank Express</item>
+        <item>194 West Bedford Express</item>
+        <item>196 Basinview Express</item>
+        <item>2 Fairview</item>
+        <item>21 Lakeside - Timberlea</item>
+        <item>22 Armdale</item>
+        <item>24 Leiblin Park</item>
+        <item>25 Governors Brook</item>
+        <item>26 Springvale</item>
+        <item>28 Bayers Lake</item>
+        <item>29 Point Pleasant</item>
+        <item>3 CrossTown</item>
+        <item>30A Parkland</item>
+        <item>30B Dunbrack</item>
+        <item>320 Airport - Fall River</item>
+        <item>330 Tantallon - Sheldrake Lake</item>
+        <item>370 Porters Lake</item>
+        <item>39 Flamingo</item>
+        <item>4 Universities</item>
+        <item>401 Porters Lake</item>
+        <item>415 Purcells Cove</item>
+        <item>433 Tantallon</item>
+        <item>5 Portland</item>
+        <item>50 Dockyard</item>
+        <item>51A Windmill</item>
+        <item>51B Windmill - Wrights Cove</item>
+        <item>53 Highfield</item>
+        <item>54 Montebello</item>
+        <item>55 Port Wallace</item>
+        <item>56 Dartmouth Crossing</item>
+        <item>57 Portland Estates</item>
+        <item>58 Woodlawn</item>
+        <item>59 Colby</item>
+        <item>61 North Preston</item>
+        <item>62 Grahams Cove</item>
+        <item>63 Mount Edward</item>
+        <item>64 Burnside</item>
+        <item>65 Caldwell</item>
+        <item>67 Baker</item>
+        <item>68 Cherry Brook</item>
+        <item>6A Woodside</item>
+        <item>6B Eastern Passage</item>
+        <item>6C Heritage Hills</item>
+        <item>72 Portland Hills</item>
+        <item>7A Peninsula</item>
+        <item>7B Peninsula</item>
+        <item>8 Sackville Corridor</item>
+        <item>82 First Lake</item>
+        <item>83 Springfield</item>
+        <item>84 Glendale</item>
+        <item>85 Millwood</item>
+        <item>86 Beaver Bank</item>
+        <item>87 Sackville - Dartmouth</item>
+        <item>88 Bedford Commons</item>
+        <item>90 Larry Uteck</item>
+        <item>91 Hemlock Ravine</item>
+        <item>93 Bedford Highway</item>
+        <item>9A Greystone</item>
+        <item>9B Herring Cove</item>
+        <item>FerD Alderney Ferry</item>
+        <item>FerW Woodside Ferry</item>
+    </string-array>
+</resources>
